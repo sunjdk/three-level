@@ -7,3 +7,6 @@
 3.修改数据库配置
 4.修改命名空间
 5.部署前端html页面，注意应用的js、和css 位置
+
+代码原理见博客：
+https://blog.csdn.net/taotaobaobei/article/details/85256261
